@@ -12,6 +12,7 @@ under 'Download the latest version for Windows' or select your OS under the yell
 
 ## Installing
 This will guide you through setting up a development environment with different IDEs.
+
 Pycharm:
 1. Open pycharm and import the .py file
 2. Press the green play button
