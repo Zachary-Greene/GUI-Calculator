@@ -6,7 +6,7 @@ You can do basic maths with this program. Included within the zip file is an exe
 readme file and a .py file
 
 ## Prerequisites
-To get the .py file working without the use of the exe file, you need to download Python 3 or above.
+To get the .py file working, you need to download Python 3 or above.
 To download Python go to the [Python](https://www.python.org/downloads/) and click the yellow button-
 under 'Download the latest version for Windows' or select your OS under the yellow button.
 
