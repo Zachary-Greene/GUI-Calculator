@@ -14,12 +14,18 @@ This will guide you through setting up a development environment with different 
 
 Pycharm:
 1. Open pycharm and import the .py file
+```
+File > Open File > (Your File)
+```
 2. Press the green play button
 3. Choose an interpreter
 4. Press apply, then run
 
 IDLE:
-1. Open IDLE then File > Open > (Your chosen file)
+1. Open IDLE and import the .py file
+```
+File > Open > (Your chosen file)
+```
 2. Then press Run
 
 ## Built With
