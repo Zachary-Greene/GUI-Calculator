@@ -1,7 +1,7 @@
 # GUI Based Calculator
 
 This program is a GUI based calculator with basic functions (+, -, *, /)
-You can do basic maths with this program. Included within the zip file is an exe, a copy of this-
+You can do basic maths with this program. Included within the zip file is an exe, a copy of the
 readme file and a .py file
 
 ## Prerequisites
