@@ -29,7 +29,7 @@ File > Open > (Your File)
 2. Then press Run
 
 ## Built With
-The modules used in this program are Tkinter and the System libraries
+The modules used in this program are Tkinter and the inbuilt System/Sys libraries
 
 ## License
 See LICENSE.md
