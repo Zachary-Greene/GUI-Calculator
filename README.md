@@ -24,7 +24,7 @@ File > Open File > (Your File)
 IDLE:
 1. Open IDLE and import the .py file
 ```
-File > Open > (Your chosen file)
+File > Open > (Your File)
 ```
 2. Then press Run
 
