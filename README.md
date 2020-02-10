@@ -1,8 +1,8 @@
 # GUI Based Calculator
 
 This program is a GUI based calculator with basic functions (+, -, *, /)
-You can do basic maths with this program. Included within the zip file is an exe, a copy of the
-readme file and a .py file
+You can do basic maths with this program. Included within the zip file is an exe, a
+readme file, a license file and a .py file
 
 ## Prerequisites
 To get the .py file working, you need to download Python 3 or above.
