@@ -1,12 +1,12 @@
 # GUI Based Calculator
 
 This program is a GUI based calculator with basic functions (+, -, *, /)
-You can do basic maths with this program. Included within the zip file is an exe, a
+You can do basic maths with this program. Included within the repository is an exe, a
 readme file, a license file and a .py file
 
 ## Prerequisites
 To get the .py file working, you need to download Python 3 or above.
-To download Python go to the [Python](https://www.python.org/downloads/) and click the yellow button-
+To download Python go to the [Python](https://www.python.org/downloads/) web page and click the yellow button
 under 'Download the latest version for Windows' or select your OS under the yellow button.
 
 ## Installing
