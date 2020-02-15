@@ -2,7 +2,7 @@
 
 This program is a GUI based calculator with basic functions (+, -, *, /)
 You can do basic maths with this program. Included within the repository is an exe, a
-readme file, a license file and a .py file
+readme file, a license file and a python file
 
 ## Prerequisites
 To get the .py file working, you need to download Python 3 or above.
